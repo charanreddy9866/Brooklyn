@@ -24,7 +24,7 @@ Brooklyn Entertainment is a bold, energetic brand inspired by the iconic culture
 
 ## 🌐 Website Banner
 
-<img src="./banner_1200x400.png" alt="Brooklyn Entertainment Banner" width="100%"/>
+<img src="./brooklyn_logo.png"  alt="Brooklyn Entertainment Banner" width="100%"/>
 
 ---
 
