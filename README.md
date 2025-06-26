@@ -1,7 +1,7 @@
 
 # Brooklyn Entertainment
 
-<img src="./brooklyn_logo_transparent.png" alt="Brooklyn Entertainment Logo" width="200"/>
+<img src="./brooklyn_logo.png" alt="Brooklyn Entertainment Logo" width="200"/>
 
 Welcome to the official GitHub repository of **Brooklyn Entertainment** — where urban creativity meets modern entertainment.
 
