@@ -28,25 +28,11 @@ Brooklyn Entertainment is a bold, energetic brand inspired by the iconic culture
 
 ---
 
-## 🧠 How to Use
 
-To add the favicon to your GitHub Pages site:
-
-```html
-<link rel="icon" href="favicon_128.png" type="image/png" />
-```
-
-To display the logo:
-
-```markdown
-![Brooklyn Entertainment Logo](./brooklyn_logo_transparent.png)
-```
-
----
 
 ## 📩 Contact
 
-For business inquiries or collaborations, reach out at [email@example.com].
+For business inquiries or collaborations, reach out at [charan@gmail.com].
 
 ---
 
