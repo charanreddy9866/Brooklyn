@@ -14,11 +14,8 @@ Brooklyn Entertainment is a bold, energetic brand inspired by the iconic culture
 ---
 
 ## 📂 Assets Included
-
-- `brooklyn_logo_transparent.png` — Main logo (transparent background)
-- `banner_1200x400.png` — Banner for GitHub Pages or websites
-- `favicon_128.png` — Icon for web tab or app
-- `brooklyn_logo_placeholder.svg` — SVG-format placeholder (web-embed)
+brooklyn_logo
+Brooklyn Entertainment Banner"
 
 ---
 
